@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Nithya 👋
+🚀 Software Engineer focused on AI-powered backend systems  
+💡 I build scalable APIs, ETL pipelines, and LLM-based applications  
+📍 Based in Buffalo, NY | Open to opportunities in the US  
+## 🔧 What I Work On
+- AI systems (LLMs, RAG, fine-tuning)
+- Backend engineering (APIs, microservices)
+- Data pipelines & distributed systems
 
-<!--
-**Nithya-Kaandru/Nithya-Kaandru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack
+Python • SQL • PyTorch • LangChain • Docker • Flask • Node.js  
+PostgreSQL • MongoDB • Redis • Spark • Hadoop • AWS  
 
-Here are some ideas to get you started:
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/nithya-kaandru
+- Email: kaandrunithya18@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
