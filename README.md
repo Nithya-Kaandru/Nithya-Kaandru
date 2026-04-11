@@ -17,10 +17,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a Software Engineer completing my **M.S. in AI at University at Buffalo (GPA 3.7)**. I build production-ready AI systems — from fine-tuning LLMs and architecting RAG pipelines to deploying containerized ETL microservices.
-
-I care about systems that **actually work at scale**, not just demos.
-
+I'm a Software Engineer who has completed my **M.S. in AI at University at Buffalo (GPA 3.7)**. I build production-ready AI systems, from fine-tuning LLMs and architecting RAG pipelines to deploying containerized ETL microservices.
 ---
 
 ## ⚡ At a Glance
